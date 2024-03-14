@@ -56,7 +56,8 @@ class MessageLookup extends MessageLookupByLibrary {
         "close": MessageLookupByLibrary.simpleMessage("Fermer"),
         "congratulationsReward": MessageLookupByLibrary.simpleMessage(
             "Félicitations ! Votre récompense :"),
-        "copyright": MessageLookupByLibrary.simpleMessage("© 2023 Habo"),
+        "copyright":
+            MessageLookupByLibrary.simpleMessage("© 2024 WildCat Studio"),
         "create": MessageLookupByLibrary.simpleMessage("Créer"),
         "createHabit":
             MessageLookupByLibrary.simpleMessage("Créer une habitude"),
@@ -108,11 +109,11 @@ class MessageLookup extends MessageLookupByLibrary {
         "habitTitleEmptyError": MessageLookupByLibrary.simpleMessage(
             "Le nom de l\'habitude ne peut pas être vierge."),
         "habits": MessageLookupByLibrary.simpleMessage("Habitudes :"),
-        "habo": MessageLookupByLibrary.simpleMessage("Habo"),
+        "habo": MessageLookupByLibrary.simpleMessage("Pro Habit Tracker"),
         "haboNeedsPermission": MessageLookupByLibrary.simpleMessage(
-            "Habo a besoin de l\'autorisation d\'envoyer des notifications pour fonctionner correctement."),
+            "Pro Habit Tracker a besoin de l\'autorisation d\'envoyer des notifications pour fonctionner correctement."),
         "ifYouWantToSupport": MessageLookupByLibrary.simpleMessage(
-            "Si vous souhaitez soutenir Habo vous pouvez :"),
+            "Si vous souhaitez soutenir Pro Habit Tracker vous pouvez :"),
         "logYourDays":
             MessageLookupByLibrary.simpleMessage("Enregistrez vos journées"),
         "modify": MessageLookupByLibrary.simpleMessage("Modifier"),

@@ -350,7 +350,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                           ),
                           applicationName: 'Habo',
                           applicationVersion: _packageInfo.version,
-                          applicationLegalese: '©2023 Habo',
+                          applicationLegalese: '©2024 WildCat Studio',
                           children: <Widget>[
                             Padding(
                               padding: const EdgeInsets.only(top: 15),
@@ -366,7 +366,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                                       recognizer: TapGestureRecognizer()
                                         ..onTap = () async {
                                           final Uri url = Uri.parse(
-                                              'https://habo.space/terms.html#terms');
+                                              'https://wildcatstudio.us/app/terms');
                                           if (await canLaunchUrl(url)) {
                                             await launchUrl(
                                               url,
@@ -385,7 +385,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                                       recognizer: TapGestureRecognizer()
                                         ..onTap = () async {
                                           final Uri url = Uri.parse(
-                                              'https://habo.space/terms.html#privacy');
+                                              'https://wildcatstudio.us/app/privacy');
                                           if (await canLaunchUrl(url)) {
                                             await launchUrl(
                                               url,
@@ -404,7 +404,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                                       recognizer: TapGestureRecognizer()
                                         ..onTap = () async {
                                           final Uri url = Uri.parse(
-                                              'https://habo.space/terms.html#disclaimer');
+                                              'https://wildcatstudio.us/app/apps');
                                           if (await canLaunchUrl(url)) {
                                             await launchUrl(
                                               url,
@@ -423,7 +423,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                                       recognizer: TapGestureRecognizer()
                                         ..onTap = () async {
                                           final Uri url = Uri.parse(
-                                              'https://github.com/xpavle00/Habo');
+                                              'https://github.com/djacidfx/Habo');
                                           if (await canLaunchUrl(url)) {
                                             await launchUrl(
                                               url,
@@ -446,7 +446,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                                       recognizer: TapGestureRecognizer()
                                         ..onTap = () async {
                                           final Uri url = Uri.parse(
-                                              'https://www.buymeacoffee.com/peterpavlenko');
+                                              'https://fuelmydreams.online/wildcatstudio');
                                           if (await canLaunchUrl(url)) {
                                             await launchUrl(
                                               url,

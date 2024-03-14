@@ -1,4 +1,4 @@
-[![Screens](https://habo.space/img/social/1.png)](https://habo.space)
+[![Screens](https://wildcatstudio.us/img/social/1.png)](https://wildcatstudio.us)
 
 ![Codemagic build status](https://api.codemagic.io/apps/6154a5e032cdf915d1ce822b/6154a5e032cdf915d1ce822a/status_badge.svg)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
@@ -28,7 +28,7 @@ It is built using the [Flutter](https://flutter.dev/) framework, a popular and p
 
 Currently available on the Play Store and App Store.
 
-[![Google play store](https://habo.space/img/resources/en_get.svg)](https://play.google.com/store/apps/details?id=com.pavlenko.Habo) <a target="_blank" href="https://apps.apple.com/us/app/habo-habit-tracker/id1670223360?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 134px; height: 40px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1682121600" alt="Download on the App Store" style="border-radius: 13px; width: 134px; height: 40px;"></a>
+[![Google play store](https://wildcatstudio.us/img/resources/en_get.svg)](https://play.google.com/store/apps/details?id=com.pavlenko.Habo) <a target="_blank" href="https://apps.apple.com/us/app/habo-habit-tracker/id1670223360?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 134px; height: 40px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1682121600" alt="Download on the App Store" style="border-radius: 13px; width: 134px; height: 40px;"></a>
 
 
 
@@ -57,7 +57,7 @@ We hope you enjoy using Habo and find it helpful in building better habits for a
 
 ## Support
 
-If you like this project you can [buy me a coffee](https://www.buymeacoffee.com/peterpavlenko).
+If you like this project you can [buy me a coffee](https://fuelmydreams.online/wildcatstudio).
 
-<a href="https://www.buymeacoffee.com/peterpavlenko" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://fuelmydreams.online/wildcatstudio" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 

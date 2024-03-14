@@ -56,7 +56,8 @@ class MessageLookup extends MessageLookupByLibrary {
         "close": MessageLookupByLibrary.simpleMessage("Kapat"),
         "congratulationsReward":
             MessageLookupByLibrary.simpleMessage("Tebrikler! Ödülünüz:"),
-        "copyright": MessageLookupByLibrary.simpleMessage("©2023 Habo"),
+        "copyright":
+            MessageLookupByLibrary.simpleMessage("©2024 WildCat Studio"),
         "create": MessageLookupByLibrary.simpleMessage("Oluştur"),
         "createHabit":
             MessageLookupByLibrary.simpleMessage("Alışkanlık Oluştur"),
@@ -107,11 +108,11 @@ class MessageLookup extends MessageLookupByLibrary {
         "habitTitleEmptyError": MessageLookupByLibrary.simpleMessage(
             "Alışkanlık başlığı boş olamaz."),
         "habits": MessageLookupByLibrary.simpleMessage("Alışkanlıklar:"),
-        "habo": MessageLookupByLibrary.simpleMessage("Habo"),
+        "habo": MessageLookupByLibrary.simpleMessage("Pro Habit Tracker"),
         "haboNeedsPermission": MessageLookupByLibrary.simpleMessage(
-            "Habo\'nun düzgün çalışması için bildirim gönderme iznine ihtiyacı vardır."),
+            "Pro Habit Tracker\'nun düzgün çalışması için bildirim gönderme iznine ihtiyacı vardır."),
         "ifYouWantToSupport": MessageLookupByLibrary.simpleMessage(
-            "Habo\'yu desteklemek istiyorsanız:"),
+            "Pro Habit Tracker\'yu desteklemek istiyorsanız:"),
         "logYourDays":
             MessageLookupByLibrary.simpleMessage("Günlerinizi kaydedin"),
         "modify": MessageLookupByLibrary.simpleMessage("Değiştir"),

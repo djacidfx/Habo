@@ -49,7 +49,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.pavlenko.Habo"
+        applicationId "work.mywild.Habits"
         minSdkVersion 21
         compileSdk 34
         targetSdkVersion 34

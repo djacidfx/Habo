@@ -290,20 +290,20 @@ class S {
     );
   }
 
-  /// `Habo`
+  /// `Pro Habit Tracker`
   String get habo {
     return Intl.message(
-      'Habo',
+      'Pro Habit Tracker',
       name: 'habo',
       desc: '',
       args: [],
     );
   }
 
-  /// `©2023 Habo`
+  /// `©2023 WildCat Studio`
   String get copyright {
     return Intl.message(
-      '©2023 Habo',
+      '©2023 WildCat Studio',
       name: 'copyright',
       desc: '',
       args: [],
@@ -350,10 +350,10 @@ class S {
     );
   }
 
-  /// `If you want to support Habo you can:`
+  /// `If you want to support us you can:`
   String get ifYouWantToSupport {
     return Intl.message(
-      'If you want to support Habo you can:',
+      'If you want to support us you can:',
       name: 'ifYouWantToSupport',
       desc: '',
       args: [],
@@ -770,10 +770,10 @@ class S {
     );
   }
 
-  /// `Habo needs permission to send notifications to work properly.`
+  /// `This app needs permission to send notifications to work properly.`
   String get haboNeedsPermission {
     return Intl.message(
-      'Habo needs permission to send notifications to work properly.',
+      'This app needs permission to send notifications to work properly.',
       name: 'haboNeedsPermission',
       desc: '',
       args: [],

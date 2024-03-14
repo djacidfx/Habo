@@ -55,7 +55,8 @@ class MessageLookup extends MessageLookupByLibrary {
         "close": MessageLookupByLibrary.simpleMessage("Zavřít"),
         "congratulationsReward":
             MessageLookupByLibrary.simpleMessage("Gratulujeme! Vaše odměna:"),
-        "copyright": MessageLookupByLibrary.simpleMessage("©2023 Habo"),
+        "copyright":
+            MessageLookupByLibrary.simpleMessage("©2024 WildCat Studio"),
         "create": MessageLookupByLibrary.simpleMessage("Vytvořit"),
         "createHabit": MessageLookupByLibrary.simpleMessage("Vytvořit návyk"),
         "createYourFirstHabit":
@@ -103,11 +104,11 @@ class MessageLookup extends MessageLookupByLibrary {
         "habitTitleEmptyError": MessageLookupByLibrary.simpleMessage(
             "Název návyku nesmí být prázdný."),
         "habits": MessageLookupByLibrary.simpleMessage("Návyky:"),
-        "habo": MessageLookupByLibrary.simpleMessage("Habo"),
+        "habo": MessageLookupByLibrary.simpleMessage("Pro Habit Tracker"),
         "haboNeedsPermission": MessageLookupByLibrary.simpleMessage(
-            "Habo potřebuje povolení k odesílání oznámení, aby správně fungoval."),
+            "Pro Habit Tracker potřebuje povolení k odesílání oznámení, aby správně fungoval."),
         "ifYouWantToSupport": MessageLookupByLibrary.simpleMessage(
-            "Pokud chcete podpořit Habo, můžete:"),
+            "Pokud chcete podpořit Pro Habit Tracker, můžete:"),
         "logYourDays":
             MessageLookupByLibrary.simpleMessage("Zaznamenávejte své dny"),
         "modify": MessageLookupByLibrary.simpleMessage("Upravit"),

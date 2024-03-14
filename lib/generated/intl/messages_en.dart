@@ -55,7 +55,8 @@ class MessageLookup extends MessageLookupByLibrary {
         "close": MessageLookupByLibrary.simpleMessage("Close"),
         "congratulationsReward": MessageLookupByLibrary.simpleMessage(
             "Congratulations! Your reward:"),
-        "copyright": MessageLookupByLibrary.simpleMessage("©2023 Habo"),
+        "copyright":
+            MessageLookupByLibrary.simpleMessage("©2023 WildCat Studio"),
         "create": MessageLookupByLibrary.simpleMessage("Create"),
         "createHabit": MessageLookupByLibrary.simpleMessage("Create Habit"),
         "createYourFirstHabit":
@@ -102,11 +103,11 @@ class MessageLookup extends MessageLookupByLibrary {
         "habitTitleEmptyError": MessageLookupByLibrary.simpleMessage(
             "The habit title can not be empty."),
         "habits": MessageLookupByLibrary.simpleMessage("Habits:"),
-        "habo": MessageLookupByLibrary.simpleMessage("Habo"),
+        "habo": MessageLookupByLibrary.simpleMessage("Pro Habit Tracker"),
         "haboNeedsPermission": MessageLookupByLibrary.simpleMessage(
-            "Habo needs permission to send notifications to work properly."),
+            "This app needs permission to send notifications to work properly."),
         "ifYouWantToSupport": MessageLookupByLibrary.simpleMessage(
-            "If you want to support Habo you can:"),
+            "If you want to support us you can:"),
         "logYourDays": MessageLookupByLibrary.simpleMessage("Log your days"),
         "modify": MessageLookupByLibrary.simpleMessage("Modify"),
         "month": MessageLookupByLibrary.simpleMessage("Month"),

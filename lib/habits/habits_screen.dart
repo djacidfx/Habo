@@ -49,7 +49,7 @@ class _HabitsScreenState extends State<HabitsScreen> {
         return Scaffold(
           appBar: AppBar(
             title: const Text(
-              'Habo',
+              'Pro Habit Tracker',
               style: TextStyle(fontWeight: FontWeight.w700),
             ),
             backgroundColor: Colors.transparent,
